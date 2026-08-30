@@ -12,7 +12,7 @@ My goal is to solve **100 LeetCode problems** and maintain a consistent GitHub s
 
 ## 🟢 Array
 
-* [x] #1 — [LeetCode 1] Two Sum
+* [ ] #1 — [LeetCode 1] Two Sum
 * [ ] #2 — [LeetCode 26] Remove Duplicates from Sorted Array
 * [ ] #3 — [LeetCode 27] Remove Element
 * [ ] #4 — [LeetCode 35] Search Insert Position
