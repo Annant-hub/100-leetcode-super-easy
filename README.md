@@ -12,17 +12,17 @@ My goal is to solve **100 LeetCode problems** and maintain a consistent GitHub s
 
 ## 🟢 Array
 
-* [ ] #1 — [LeetCode 1] Two Sum
+* [x] #1 — [LeetCode 1] Two Sum
 * [ ] #2 — [LeetCode 26] Remove Duplicates from Sorted Array
 * [ ] #3 — [LeetCode 27] Remove Element
-* [ ] #4 — [LeetCode 35] Search Insert Position
+* [x] #4 — [LeetCode 35] Search Insert Position
 * [ ] #5 — [LeetCode 53] Maximum Subarray
 * [ ] #6 — [LeetCode 66] Plus One
-* [ ] #7 — [LeetCode 88] Merge Sorted Array
+* [x] #7 — [LeetCode 88] Merge Sorted Array
 * [ ] #8 — [LeetCode 121] Best Time to Buy and Sell Stock
-* [ ] #9 — [LeetCode 136] Single Number
+* [x] #9 — [LeetCode 136] Single Number
 * [ ] #10 — [LeetCode 169] Majority Element
-* [ ] #11 — [LeetCode 189] Rotate Array
+* [x] #11 — [LeetCode 189] Rotate Array
 * [ ] #12 — [LeetCode 217] Contains Duplicate
 * [ ] #13 — [LeetCode 219] Contains Duplicate II
 * [ ] #14 — [LeetCode 268] Missing Number
@@ -90,7 +90,7 @@ My goal is to solve **100 LeetCode problems** and maintain a consistent GitHub s
 * [ ] #56 — [LeetCode 1] Two Sum
 * [ ] #57 — [LeetCode 136] Single Number
 * [ ] #58 — [LeetCode 169] Majority Element
-* [ ] #59 — [LeetCode 202] Happy Number
+* [x] #59 — [LeetCode 202] Happy Number
 * [ ] #60 — [LeetCode 205] Isomorphic Strings
 * [ ] #61 — [LeetCode 217] Contains Duplicate
 * [ ] #62 — [LeetCode 242] Valid Anagram
